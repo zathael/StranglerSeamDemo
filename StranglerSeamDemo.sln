@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StranglerSeamDemo.Api", "StranglerSeamDemo.Api\StranglerSeamDemo.Api.csproj", "{ABFE1FA1-9DF4-4132-A296-9DC0CC7B4D75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StranglerSeamDemo.LegacyWinForms", "StranglerSeamDemo.LegacyWinForms\StranglerSeamDemo.LegacyWinForms.csproj", "{F7B12CA6-4847-42F6-B633-C3DBB11DD61A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StranglerSeamDemo.Api.Tests", "StranglerSeamDemo.Api.Tests\StranglerSeamDemo.Api.Tests.csproj", "{3B1C17E2-2CD9-4C95-B162-3565C9881CC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABFE1FA1-9DF4-4132-A296-9DC0CC7B4D75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABFE1FA1-9DF4-4132-A296-9DC0CC7B4D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABFE1FA1-9DF4-4132-A296-9DC0CC7B4D75}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{ABFE1FA1-9DF4-4132-A296-9DC0CC7B4D75}.Debug|x64.Build.0 = Debug|Any CPU
+		{ABFE1FA1-9DF4-4132-A296-9DC0CC7B4D75}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{ABFE1FA1-9DF4-4132-A296-9DC0CC7B4D75}.Debug|x86.Build.0 = Debug|Any CPU
+		{ABFE1FA1-9DF4-4132-A296-9DC0CC7B4D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABFE1FA1-9DF4-4132-A296-9DC0CC7B4D75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABFE1FA1-9DF4-4132-A296-9DC0CC7B4D75}.Release|x64.ActiveCfg = Release|Any CPU
+		{ABFE1FA1-9DF4-4132-A296-9DC0CC7B4D75}.Release|x64.Build.0 = Release|Any CPU
+		{ABFE1FA1-9DF4-4132-A296-9DC0CC7B4D75}.Release|x86.ActiveCfg = Release|Any CPU
+		{ABFE1FA1-9DF4-4132-A296-9DC0CC7B4D75}.Release|x86.Build.0 = Release|Any CPU
+		{F7B12CA6-4847-42F6-B633-C3DBB11DD61A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7B12CA6-4847-42F6-B633-C3DBB11DD61A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7B12CA6-4847-42F6-B633-C3DBB11DD61A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F7B12CA6-4847-42F6-B633-C3DBB11DD61A}.Debug|x64.Build.0 = Debug|Any CPU
+		{F7B12CA6-4847-42F6-B633-C3DBB11DD61A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F7B12CA6-4847-42F6-B633-C3DBB11DD61A}.Debug|x86.Build.0 = Debug|Any CPU
+		{F7B12CA6-4847-42F6-B633-C3DBB11DD61A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7B12CA6-4847-42F6-B633-C3DBB11DD61A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7B12CA6-4847-42F6-B633-C3DBB11DD61A}.Release|x64.ActiveCfg = Release|Any CPU
+		{F7B12CA6-4847-42F6-B633-C3DBB11DD61A}.Release|x64.Build.0 = Release|Any CPU
+		{F7B12CA6-4847-42F6-B633-C3DBB11DD61A}.Release|x86.ActiveCfg = Release|Any CPU
+		{F7B12CA6-4847-42F6-B633-C3DBB11DD61A}.Release|x86.Build.0 = Release|Any CPU
+		{3B1C17E2-2CD9-4C95-B162-3565C9881CC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B1C17E2-2CD9-4C95-B162-3565C9881CC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B1C17E2-2CD9-4C95-B162-3565C9881CC1}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3B1C17E2-2CD9-4C95-B162-3565C9881CC1}.Debug|x64.Build.0 = Debug|Any CPU
+		{3B1C17E2-2CD9-4C95-B162-3565C9881CC1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3B1C17E2-2CD9-4C95-B162-3565C9881CC1}.Debug|x86.Build.0 = Debug|Any CPU
+		{3B1C17E2-2CD9-4C95-B162-3565C9881CC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B1C17E2-2CD9-4C95-B162-3565C9881CC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B1C17E2-2CD9-4C95-B162-3565C9881CC1}.Release|x64.ActiveCfg = Release|Any CPU
+		{3B1C17E2-2CD9-4C95-B162-3565C9881CC1}.Release|x64.Build.0 = Release|Any CPU
+		{3B1C17E2-2CD9-4C95-B162-3565C9881CC1}.Release|x86.ActiveCfg = Release|Any CPU
+		{3B1C17E2-2CD9-4C95-B162-3565C9881CC1}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
