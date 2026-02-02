@@ -30,3 +30,9 @@ This spike demonstrates:
 cd StranglerSeamDemo.Api
 dotnet run
 ```
+
+### 2) Run Winforms (error will trigger if api was not detected)
+```bash
+cd ../StranglerSeamDemo.LegacyWinForms
+dotnet run
+```
