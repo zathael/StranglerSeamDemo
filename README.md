@@ -36,3 +36,4 @@ dotnet run
 cd ../StranglerSeamDemo.LegacyWinForms
 dotnet run
 ```
+
